@@ -1,21 +1,21 @@
-# tutorialcmds
+#dylanbot
 
-**All credit goes to Aqua Plays** for the base of this, make sure to check him out and subscribe.
+**wiki**
 
-His socials:
+Commands:
 
-https://www.youtube.com/channel/UC2pXSfyN3aBHxljs7K5MqLw
-https://twitter.com/ZenethLeaks
-https://www.instagram.com/aquaplays_yt/
-https://discord.gg/y63vQDF
+!skin <cid> - Changes **skin to the CID set**
+!emote <eid> - Changes **applied emote to an EID**
+!ready - **readies up the bot**
+!ready_cancel - **unreadies**
+!end_emote - cancels emote
+!back_bling - **puts on backbling**
+!pickaxe - **puts on pickaxe**
+  
+*end*
 
-Requirements:
-- Node.JS
+everything **you need**
 
-Steps:
-1) Download the files, and download https://node.js
-2) Open PackageInstaller, and wait for it to complete.
-3) Go into index.js with Visual Studio Code and edit the account login to a brand new fortnite account.
-4) Add your fortnite account you just created,
-5) Invite it to your lobby.
+https://docs.google.com/spreadsheets/d/1gVDgnzNyMCafIWa-dBO3mgNUHmHzgA9O5sWbfQy2Yfg/edit
 
+^ ids for the cids, eids, etc
